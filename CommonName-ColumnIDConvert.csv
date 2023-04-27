@@ -1,0 +1,193 @@
+﻿CommonName,Family,Genus,Species,MumbyColumn ID,ColumnID,Best model,allgeier_FFG,Valdivia_FFG,tp,Valdivia_TP
+african pompano,Carangidae,Alectis,ciliaris,CarangidaeAlectisciliaris,Carangidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.81
+almaco jack,Carangidae,Seriola,rivoliana,CarangidaeSeriolarivoliana,Carangidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.81
+balloonfish,Diodontidae,Diodon,holocanthus,DiodontidaeDiodonholocanthus,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+banded butterflyfish,Chaetodontidae,Chaetodon,striatus,ChaetodontidaeChaetodonstriatus,ChaetodontidaeChaetodonstriatus,species,Microinvertivore,Microinvertivore,3.2,3.19
+bandtail pufferfish,Tetradontidae,Sphoeroides,spengleri,TetradontidaeSphoeroidesspengleri,TetraodontidaeSphoeroidessp,genus,Microinvertivore,Omnivore,2.6,2.56
+bar jack,Carangidae,Caranx,ruber,CarangidaeCaranxruber,CarangidaeCaranxsp,genus,Piscivore,Piscivore Invertivore,4.5,4.39
+barred hamlet,Serranidae,Hypoplectrus,puella,SerranidaeHypoplectruspuella,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+bchromis,Pomacentridae,Chromis,cyanea,PomacentridaeChromiscyanea,PomacentridaeChromissp,genus,Planktivores,Planktivore,3.1,3.1
+beaugregory,Pomacentridae,Stegastes,leucostictus,PomacentridaeStegastesleucostictus,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+bermuda chub,Kyphosidae,Kyphosus,sectatrix,KyphosidaeKyphosussectatrix,KyphosidaeKyphosussp,genus,Herbivores,Herbivore,2,2
+bicolor damsel,Pomacentridae,Stegastes,partitus,PomacentridaeStegastespartitus,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+bicolor damselfish,Pomacentridae,Stegastes,partitus,PomacentridaeStegastespartitus,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+bicolored damselfish,Pomacentridae,Stegastes,partitus,PomacentridaeStegastespartitus,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+black bar blennyu,Blennidae,,,,LabridaeHalichoeressp,,Microinvertivore,Macroinvertivore,3.5,3.5
+black durgon,Balistidae,Melichthys,niger,BalistidaeMelichthysniger,Balistidaespsp,family,Macroinvertivore,Macroinvertivore,3.2,3.24
+black ear wrasse,Labridae,Halichoeres,poeyi,LabridaeHalichoerespoeyi,LabridaeHalichoeressp,genus,Microinvertivore,Macroinvertivore,3.5,3.5
+black grouper,Serranidae,Mycteroperca,bonaci,SerranidaeMycteropercabonaci,SerranidaeMycteropercabonaci,species,Piscivore-Invertivore,Apex predator,4.5,4.5
+black hamlet,Serranidae,Hypoplectrus,nigricans,SerranidaeHypoplectrusnigricans,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+black jack,Carangidae,Caranx,lugubris,CarangidaeCaranxlugubris,CarangidaeCaranxsp,genus,Piscivore,Piscivore Invertivore,4.5,4.39
+black margate,Haemulidae,Anisotremus,surinamensis,HaemulidaeAnisotremussurinamensis,Haemulidaespsp,family,Macroinvertivore,Macroinvertivore,3.5,3.25
+blackbar soldierfish,Holocentridae,Myripristis,jacobus,HolocentridaeMyripristisjacobus,Holocentridaespsp,family,Macroinvertivore,Macroinvertivore,3.6,3.61
+blackcap basslet,Grammatidae,Gramma,melacara,GrammatidaeGrammamelacara,Grammatidaespsp,family,Planktivores,Microinvertivore,3.5,3.31
+blackear wrasse,Labridae,Halichoeres,poeyi,LabridaeHalichoerespoeyi,LabridaeHalichoeressp,genus,Microinvertivore,Macroinvertivore,3.5,3.5
+blackfin snapper,Lutjanidae,Lutjanus,buccanella,LutjanidaeLutjanusbuccanella,LutjanidaeLutjanussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.86
+blenny sp,Blennidae,,,,LabridaeHalichoeressp,,Microinvertivore,Macroinvertivore,3.5,3.5
+blenny sp.,Blennidae,,,,LabridaeHalichoeressp,,Microinvertivore,Macroinvertivore,3.5,3.5
+blue chromis,Pomacentridae,Chromis,cyanea,PomacentridaeChromiscyanea,PomacentridaeChromissp,genus,Planktivores,Planktivore,3.1,3.1
+blue parrotfish,Scaridae,Scarus,coeruleus,ScaridaeScaruscoeruleus,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+blue runner,Carangidae,Caranx,crysos,CarangidaeCaranxcrysos,CarangidaeCaranxsp,genus,Piscivore,Piscivore Invertivore,4.5,4.39
+blue striped grunt,Haemulidae,Haemulon,sciurus,HaemulidaeHaemulonsciurus,HaemulidaeHaemulonsciurus,species,Macroinvertivore,Macroinvertivore,3.5,3.36
+blue tang,Acanthuridae,Acanthurus,coeruleus,AcanthuridaeAcanthuruscoeruleus,AcanthuridaeAcanthuruscoeruleus,species,Herbivores,Herbivore,2,2.01
+bluehead wrasse,Labridae,Thalassoma,bifasciatum,LabridaeThalassomabifasciatum,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+bridled burrfish,Diodontidae,Chilomycterus,antennatus,DiodontidaeChilomycterusantennatus,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+brown chromis,Pomacentridae,Chromis,multilineata,PomacentridaeChromismultilineata,PomacentridaeChromissp,genus,Planktivores,Planktivore,3.1,3.1
+bucktooth parrotfish,Scaridae,Sparisoma,radians,ScaridaeSparisomaradians,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+Bucktooth Parrotfish,Scaridae,Sparisoma,radians,ScaridaeSparisomaradians,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+butter hamlet,Serranidae,Hypoplectrus,unicolor,SerranidaeHypoplectrusunicolor,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+caesar grunt,Haemulidae,Haemulon,carbonarium,HaemulidaeHaemuloncarbonarium,HaemulidaeHaemulonsp,genus,Macroinvertivore,Macroinvertivore,3.5,3.18
+cardinalfish,Apogonidae,Apogon,maculatus,ApogonidaeApogonmaculatus,PomacentridaeChromissp,,Planktivores,Planktivore,3.1,3.1
+cardinalfish - flame fish (apogon maculatus),Apogonidae,Apogon,maculatus,ApogonidaeApogonmaculatus,PomacentridaeChromissp,,Planktivores,Planktivore,3.1,3.1
+checkered pufferfish,Tetradontidae,Sphoeroides,testudineus,TetradontidaeSphoeroidestestudineus,TetraodontidaeSphoeroidessp,genus,Microinvertivore,Omnivore,2.6,2.56
+chromis,Pomacentridae,Chromis,multilineata,PomacentridaeChromismultilineata,PomacentridaeChromissp,genus,Planktivores,Planktivore,3.1,3.1
+clown wrasse,Labridae,Halichoeres,maculipinna,LabridaeHalichoeresmaculipinna,LabridaeHalichoeressp,genus,Microinvertivore,Macroinvertivore,3.5,3.5
+cocoa damsel,Pomacentridae,Stegastes,variabilis,PomacentridaeStegastesvariabilis,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+coney,Serranidae,Cephalopholis,fulvus,SerranidaeCephalopholisfulvus,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+cornetfish,Fistulariidae,Fistularia,tabicaria,FistulariidaeFistulariatabicaria,Syngnathidaespsp,order,Piscivore-Invertivore,Piscivore Invertivore,4.3,4.26
+cottonwick,Haemulidae,Haemulon,melanurum,HaemulidaeHaemulonmelanurum,HaemulidaeHaemulonmelanurum,species,Macroinvertivore,Macroinvertivore,3.5,2.15
+creole wrasse,Labridae,Clepticus,parrae,LabridaeClepticusparrae,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+creolefish,Serranidae,Paranthias,furcifer,SerranidaeParanthiasfurcifer,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+cubera snapper,Lutjanidae,Lutjanus,cyanopterus,LutjanidaeLutjanuscyanopterus,LutjanidaeLutjanussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.86
+doctorfish,Acanthuridae,Acanthurus,chirurgus,AcanthuridaeAcanthuruschirurgus,AcanthuridaeAcanthuruschirurgus,species,Herbivores,Herbivore,2,2
+dog snapper,Lutjanidae,Lutjanus,jocu,LutjanidaeLutjanusjocu,LutjanidaeLutjanussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.86
+dusky damselfish,Pomacentridae,Stegastes,adustus,PomacentridaeStegastesadustus,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+dusky squirrelfish,Holocentridae,Sargocentron,vexillarium,HolocentridaeSargocentronvexillarium,Holocentridaespsp,family,Macroinvertivore,Macroinvertivore,3.6,3.61
+emerald parrotfish,Scaridae,Nicholsina,usta,ScaridaeNicholsinausta,Scaridaespsp,family,Herbivores,Herbivore,2,2
+fairy basslet,Grammatidae,Gramma,loreto,GrammatidaeGrammaloreto,Grammatidaespsp,family,Planktivores,Microinvertivore,3.5,3.31
+filefish sp.,Monacanthidae,Aluterus,sp,MonacanthidaeAluterusschoepfi,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+flagfin mojarra,Gerreidae,Eucinostoma,sp,GerreidaeEucinostmussp,GerreidaeEucinostmussp,species,omnivore,Macroinvertivore,2.8,3.32
+flagfin/silver jenny,Gerreidae,Eucinostoma,sp.,GerreidaeEucinostomasp.,Gerreidaespsp,family,omnivore,Macroinvertivore,2.8,3.32
+foureye butterflyfish,Chaetodontidae,Chaetodon,capistratus,ChaetodontidaeChaetodoncapistratus,ChaetodontidaeChaetodoncapistratus,species,Microinvertivore,Microinvertivore,3.2,3.02
+french angel,Pomacanthidae,Pomacanthus,paru,PomacanthidaePomacanthusparu,Pomacanthidaespsp,family,omnivore,Large Omnivore,2.8,2.91
+french angelfish,Pomacanthidae,Pomacanthus,paru,PomacanthidaePomacanthusparu,Pomacanthidaespsp,family,omnivore,Large Omnivore,2.8,2.91
+french grunt,Haemulidae,Haemulon,flavolineatum,HaemulidaeHaemulonflavolineatum,HaemulidaeHaemulonflavolineatum,species,Macroinvertivore,Macroinvertivore,3.5,3.27
+fringed filefish,Monacanthidae,Monacanthus,ciliatus,MonacanthidaeMonacanthusciliatus,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+goby,gobidae,,,,,,#N/A,#N/A,#N/A,#N/A
+golden hamlet,Serranidae,Hypoplectrus,gummigutta,SerranidaeHypoplectrusgummigutta,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+goldentail moray,Muraenidae,Gymnothorax,miliaris,MuraenidaeGymnothoraxmiliaris,MuraenidaeGymnothoraxsp,genus,Top Predators,Apex predator,4.5,4.01
+gray angel,Pomacanthidae,Pomacanthus,arcuatus,PomacanthidaePomacanthusarcuatus,Pomacanthidaespsp,family,omnivore,Large Omnivore,2.8,2.91
+gray angelfish,Pomacanthidae,Pomacanthus,arcuatus,PomacanthidaePomacanthusarcuatus,Pomacanthidaespsp,family,omnivore,Large Omnivore,2.8,2.91
+gray snapper,Lutjanidae,Lutjanus,griseus,LutjanidaeLutjanusgriseus,LutjanidaeLutjanusgriseus,species,Piscivore-Invertivore,Piscivore Invertivore,4.4,4.25
+gray triggerfish,Balistidae,Balistes,sp,BalistidaeBalistessp,BalistidaeBalistessp,speices,Macroinvertivore,Macroinvertivore,3.4,3.4
+graysby,Serranidae,Cephalopholis,cruentatus,SerranidaeCephalopholiscruentatus,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+great barracuda,Sphyraenidae,Sphyraena,barracuda,SphyraenidaeSphyraenabarracuda,SphyraenidaeSphyraenasp,genus,Top Predators,Apex predator,4.5,4.5
+green filefish,Monacanthidae,Aluterus,sp,MonacanthidaeAluterusschoepfi,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+green razorfish,Labridae,Xyrichtys,splendens,LabridaeXyrichtyssplendens,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+greenblotch parrotfish,Scaridae,Sparisoma,atomarium,ScaridaeSparisomaatomarium,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+grunt,Haemulidae,Haemulon,sp.,HaemulidaeHaemulonsp.,HaemulidaeHaemulonsp,genus,Macroinvertivore,Macroinvertivore,3.5,3.18
+hamlet,Serranidae,Hypoplectrus,spp,SerranidaeHypoplectrusspp,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+harlequin bass,Serranidae,Serranus,tigrinus,SerranidaeSerranustigrinus,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+high hat,Sciaenidae,Pareques,acuminatus,,SciaenidaeParequesacuminatus,genus,Microinvertivore,Microinvertivore,3.2,3.41
+hogfish,Labridae,Lachnolaimus,maximus,LabridaeLachnolaimusmaximus,LabridaeLachnolaimusmaximus,species,Macroinvertivore,Macroinvertivore,2.7,3.93
+honeycomb cowfish,Ostraciidae,Acanthostracion,polygonia,OstraciidaeAcanthostracionpolygonia,Ostraciidaespsp,family,omnivore,Macroinvertivore,3.5,3.35
+horse-eye jack,Carangidae,Caranx,latus,CarangidaeCaranxlatus,CarangidaeCaranxsp,genus,Piscivore,Piscivore Invertivore,4.5,4.39
+houndfish,Belonidae,Tylosurus,crocodilus,BelonidaeTylosuruscrocodilus,BelonidaeTylosurussp,genus,Piscivore,Piscivore Invertivore,4.5,4.47
+houndfish,Belonidae,Tylosurus,crocodilus,BelonidaeTylosuruscrocodilus,BelonidaeTylosurussp,genus,Piscivore,Piscivore Invertivore,4.5,4.47
+indigo hamlet,Serranidae,Hypoplectrus,indigo,SerranidaeHypoplectrusindigo,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+jolthead porgy,Sparidae,Calamus,bajonado,SparidaeCalamusbajonado,SparidaeCalamussp,genus,Macroinvertivore,Macroinvertivore,3.3,3.17
+juvenile grunt,Haemulidae,Haemulon,sp.,HaemulidaeHaemulonsp.,HaemulidaeHaemulonsp,genus,Macroinvertivore,Macroinvertivore,3.5,3.18
+lane snapper,Lutjanidae,Lutjanus,synagris,LutjanidaeLutjanussynagris,LutjanidaeLutjanussynagris,species,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.82
+lantern bass,Serranidae,Serranus,baldwini,SerranidaeSerranusbaldwini,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+lionfish,Scorpaenidae,Pterois,volitans,,ScorpaenidaePteroisvolitans,species,Piscivore-Invertivore,Piscivore Invertivore,4.4,4.45
+longfin damselfish,Pomacentridae,Stegastes,diencaeus,PomacentridaeStegastesdiencaeus,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+longjaw squirrelfish,Holocentridae,Neoniphon,marianus,HolocentridaeNeoniphonmarianus,Holocentridaespsp,family,Macroinvertivore,Macroinvertivore,3.6,3.61
+longsnout butterfly,Chaetodontidae,Chaetodon,aculeatus,ChaetodontidaeChaetodonaculeatus,ChaetodontidaeChaetodonsp,genus,Microinvertivore,Microinvertivore,3.2,3.16
+longspine squirrelfish,Holocentridae,Holocentrus,rufus,HolocentridaeHolocentrusrufus,HolocentridaeHolocentrussp,genus,Macroinvertivore,Macroinvertivore,3.5,3.6
+mackerel scad,Carangidae,Decapterus,macarellus,CarangidaeDecapterusmacarellus,Carangidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.81
+mahogany snapper,Lutjanidae,Lutjanus,mahogoni,LutjanidaeLutjanusmahogoni,LutjanidaeLutjanussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.86
+marbled grouper,Serranidae,Dermatolepis,inermis,SerranidaeDermatolepisinermis,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+mardi gras wrasse,Labridae,Halichoeres,burekea,LabridaeHalichoeresburekea,LabridaeHalichoeresbivittatus,species,Microinvertivore,Macroinvertivore,3.5,3.34
+margate (white),Haemulidae,Haemulon,album,HaemulidaeHaemulonalbum,HaemulidaeHaemulonsp,genus,Macroinvertivore,Macroinvertivore,3.5,3.18
+microspathodon,Pomacentridae,Microspathodon,chrysurus,PomacentridaeMicrospathodonchrysurus,Pomacentridaespsp,family,Herbivores,Herbivore,2.1,2.11
+midnight parrotfish,Scaridae,Scarus,coelestinus,ScaridaeScaruscoelestinus,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+mutton snapper,Lutjanidae,Lutjanus,analis,LutjanidaeLutjanusanalis,LutjanidaeLutjanussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.86
+nassau grouper,Serranidae,Epinephelus,striatus,SerranidaeEpinephelusstriatus,SerranidaeEpinephelusstriatus,species,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.06
+needlefish,Belonidae,Strongylura,timucu,BelonidaeStrongyluratimucu,Belonidaespsp,family,Piscivore,Piscivore Invertivore,4.5,4.47
+none,nofish,nofish,sp,nofishsp,nofishsp,speices,none,none,0,0
+ocean triggerfish,Balistidae,Canthidermis,sufflamen,BalistidaeCanthidermissufflamen,Balistidaespsp,family,Macroinvertivore,Macroinvertivore,3.2,3.24
+orange filefish,Monacanthidae,Aluterus,schoepfi,MonacanthidaeAluterusschoepfi,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+orangespotted filefish,Monacanthidae,Cantherhines,pullus,MonacanthidaeCantherhinespullus,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+palometa,Carangidae,Trachinotus,goodei,CarangidaeTrachinotusgoodei,Carangidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.81
+pearly razorfish,Labridae,Xyrichtys,novacula,LabridaeXyrichtysnovacula,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+peppermint basslet,Serranidae,Liopropoma,rubre,SerranidaeLiopropomarubre,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+permit,Carangidae,Trachinotus,falcatus,CarangidaeTrachinotusfalcatus,Carangidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.81
+porcupinefish,Diodontidae,Diodon,hystrix,DiodontidaeDiodonhystrix,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+porgy,Sparidae,Calamus,calamus,SparidaeCalamuscalamus,SparidaeCalamussp,genus,Macroinvertivore,Macroinvertivore,3.3,3.17
+porkfish,Haemulidae,Anisotremus,virginicus,HaemulidaeAnisotremusvirginicus,Haemulidaespsp,family,Macroinvertivore,Macroinvertivore,3.5,3.25
+princess parrotfish,Scaridae,Scarus,taeniopterus,ScaridaeSparisomataeniopterus,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+puddingwife,Labridae,Halichoeres,radiatus,LabridaeHalichoeresradiatus,LabridaeHalichoeressp,genus,Microinvertivore,Macroinvertivore,3.5,3.5
+purple mouth moray,Muraenidae,Gymnothorax,vicinus,MuraenidaeGymnothoraxvicinus,MuraenidaeGymnothoraxsp,genus,Top Predators,Apex predator,4.5,4.01
+purplemouth moray,Muraenidae,Gymnothorax,vicinus,MuraenidaeGymnothoraxvicinus,MuraenidaeGymnothoraxsp,genus,Top Predators,Apex predator,4.5,4.01
+queen angelfish,Pomacanthidae,Holacanthus,ciliaris,PomacanthidaeHolacanthusciliaris,PomacanthidaeHolacanthussp,genus,omnivore,Macroinvertivore,3,3.25
+queen parrotfish,Scaridae,Scarus,vetula,ScaridaeScarusvetula,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+queen triggerfish,Balistidae,Balistes,vetula,BalistidaeBalistesvetula,BalistidaeBalistessp,genus,Macroinvertivore,Macroinvertivore,3.4,3.4
+rainbow parrotfish,Scaridae,Scarus,guacamaia,ScaridaeScarusguacamaia,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+rainbow wrasse,Labridae,Halichoeres,pictus,LabridaeHalichoerespictus,LabridaeHalichoeressp,genus,Microinvertivore,Macroinvertivore,3.5,3.5
+red hind,Serranidae,Epinephelus,guttatus,SerranidaeEpinephelusguttatus,SerranidaeEpinephelussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.2,3.51
+redband parrot,Scaridae,Sparisoma,aurofrenatum,ScaridaeSparisomaaurofrenatum,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+redband parrotfish,Scaridae,Sparisoma,aurofrenatum,ScaridaeSparisomaaurofrenatum,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+redtail parrot,Scaridae,Sparisoma,chrysopterum,ScaridaeSparisomachrysopterum,ScaridaeSparisomachrysopterum,species,Herbivores,Herbivore,2,2
+redtail parrotfish,Scaridae,Sparisoma,chrysopterum,ScaridaeSparisomachrysopterum,ScaridaeSparisomachrysopterum,species,Herbivores,Herbivore,2,2
+reef butterflyfish,Chaetodontidae,Chaetodon,sedentarius,ChaetodontidaeChaetodonsedentarius,ChaetodontidaeChaetodonsp,genus,Microinvertivore,Microinvertivore,3.2,3.16
+reef squirrel,Holocentridae,Sargocentron,coruscum,HolocentridaeSargocentroncoruscum,Holocentridaespsp,family,Macroinvertivore,Macroinvertivore,3.6,3.61
+reef squirrelfish,Holocentridae,Sargocentron,coruscum,HolocentridaeSargocentroncoruscum,Holocentridaespsp,family,Macroinvertivore,Macroinvertivore,3.6,3.61
+rf,Scaridae,Sparisoma,rubripinne,ScaridaeSparisomarubripinne,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+rock beauty,Pomacanthidae,Holacanthus,tricolor,PomacanthidaeHolacanthustricolor,PomacanthidaeHolacanthussp,genus,omnivore,Macroinvertivore,3,3.25
+rock hind,Serranidae,Epinephelus,adscensionis,SerranidaeEpinephelusadscensionis,SerranidaeEpinephelussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.2,3.51
+rosy razorfish,Labridae,Xyrichtys,martinicensis,LabridaeXyrichtysmartinicensis,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+sailors choice,Haemulidae,Haemulon,parra,HaemulidaeHaemulonparra,HaemulidaeHaemulonparra,species,Macroinvertivore,Piscivore Invertivore,3.5,3.47
+scad,Carangidae,Decapterus,sp.,CarangidaeDecapterussp.,Carangidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.81
+schoolmaster,Lutjanidae,Lutjanus,apodus,LutjanidaeLutjanusapodus,LutjanidaeLutjanusapodus,species,Piscivore-Invertivore,Piscivore Invertivore,4.4,4.17
+schoolmaster snapper,Lutjanidae,Lutjanus,apodus,LutjanidaeLutjanusapodus,LutjanidaeLutjanusapodus,species,Piscivore-Invertivore,Piscivore Invertivore,4.4,4.17
+scorpionfish,Scorpaenidae,Pterois,volitans,,ScorpaenidaePteroisvolitans,species,Piscivore-Invertivore,Piscivore Invertivore,4.4,4.45
+scrawled filefish,Monacanthidae,Aluterus,scriptus,MonacanthidaeAluterusscriptus,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+sergeant major,Pomacentridae,Abudefduf,saxatilis,PomacentridaeAbudefdufsaxatilis,PomacentridaeAbudefdufsp,genus,omnivore,Small Omnivore,3.4,3.41
+sharpnose puffer,Tetraodontidae,Canthigaster,rostrata,TetraodontidaeCanthigasterrostrata,TetraodontidaeCanthigasterrostrata,species,omnivore,Omnivore,3,3
+shy hamlet,Serranidae,Hypoplectrus,guttavarius,SerranidaeHypoplectrusguttavarius,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+slippery dick,Labridae,Halichoeres,bivittatus,LabridaeHalichoeresbivittatus,LabridaeHalichoeresbivittatus,species,Microinvertivore,Macroinvertivore,3.5,3.34
+smallmouth grunt,Haemulidae,Haemulon,chrysargyreum,HaemulidaeHaemulonchrysargyreum,HaemulidaeHaemulonsp,genus,Macroinvertivore,Macroinvertivore,3.5,3.18
+smooth trunkfish,Ostraciidae,Lactophrys,triqueter,OstraciidaeLactophrystriqueter,Ostraciidaespsp,family,omnivore,Macroinvertivore,3.5,3.35
+soapfish,Serranidae,Rypticus,saponaceus,SerranidaeRypticussaponaceus,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+southern sennet,Sphyraenidae,Sphyraena,picudilla,SphyraenidaeSphyraenapicudilla,SphyraenidaeSphyraenasp,genus,Top Predators,Apex predator,4.5,4.5
+spanish grunt,Haemulidae,Haemulon,macrostomum,HaemulidaeHaemulonmacrostomum,HaemulidaeHaemulonsp,genus,Macroinvertivore,Macroinvertivore,3.5,3.18
+spanish hogfish,Labridae,Bodianus,rufus,LabridaeBodianusrufus,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+sparisoma sp.,Scaridae,Sparisoma,sp,ScaridaeSparisomasp,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+spotfin butterfly,Chaetodontidae,Chaetodon,ocellatus,ChaetodontidaeChaetodonocellatus,ChaetodontidaeChaetodonsp,genus,Microinvertivore,Microinvertivore,3.2,3.16
+spotfin butterflyfish,Chaetodontidae,Chaetodon,ocellatus,ChaetodontidaeChaetodonocellatus,ChaetodontidaeChaetodonsp,genus,Microinvertivore,Microinvertivore,3.2,3.16
+spotted burrfish,Diodontidae,Chilomyceterus,atinga,DiodontidaeChilomyceterusatinga,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+spotted goatfish,Mullidae,Pseudupeneus,maculatus,MullidaePseudupeneusmaculatus,Mullidaespsp,family,Macroinvertivore,Microinvertivore,3.3,3.18
+spotted moray,Muraenidae,Gymnothorax,moringa,MuraenidaeGymnothoraxmoringa,MuraenidaeGymnothoraxsp,genus,Top Predators,Apex predator,4.5,4.01
+spotted trunkfish,Ostraciidae,Lactophrys,bicaudalis,OstraciidaeLactophrysbicaudalis,Ostraciidaespsp,family,omnivore,Macroinvertivore,3.5,3.35
+squirrelfish,Holocentridae,Holocentrus,adscensionis,HolocentridaeHolocentrusadscensionis,HolocentridaeHolocentrusadscensionis,species,Macroinvertivore,Macroinvertivore,3.5,3.49
+stoplight parrotfish,Scaridae,Sparisoma,viride,ScaridaeSparisomaviride,ScaridaeSparisomasp,genus,Herbivores,Herbivore,2,2
+striped parrot,Scaridae,Scarus,iserti,ScaridaeScarusiserti,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+striped parrotfish,Scaridae,Scarus,iserti,ScaridaeScarusiserti,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+stripped parrot,Scaridae,Scarus,iserti,ScaridaeScarusiserti,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+stripped parrotfish,Scaridae,Scarus,iserti,ScaridaeScarusiserti,ScaridaeScarussp,genus,Herbivores,Herbivore,2,2
+sunshinefish,Pomacentridae,Chromis,insolata,PomacentridaeChromisinsolata,PomacentridaeChromissp,genus,Planktivores,Planktivore,3.1,3.1
+surgeonfish,Acanthuridae,Acanthurus,bahianus,AcanthuridaeAcanthurusbahianus,AcanthuridaeAcanthurussp,genus,Herbivores,Herbivore,2,2
+tang,Acanthuridae,Acanthurus,coeruleus,AcanthuridaeAcanthuruscoeruleus,AcanthuridaeAcanthuruscoeruleus,species,Herbivores,Herbivore,2,2.01
+threespot damsel,Pomacentridae,Stegastes,planifrons,PomacentridaeStegastesplanifrons,PomacentridaeStegastessp,genus,Herbivores,Herbivore,2,2
+threespot goatfish,Mullidae,Pseudupeneus,maculatus,MullidaePseudupeneusmaculatus,Mullidaespsp,family,Macroinvertivore,Microinvertivore,3.3,3.18
+tiger grouper,Serranidae,Mycteroperca,tigris,SerranidaeMycteropercatigris,SerranidaeMycteropercasp,genus,Piscivore-Invertivore,Apex predator,4.5,4.5
+tilefish,Malacanthidae,Malacanthus,plumieri,MalacanthidaeMalacanthusplumieri,Labridaespsp,order,Macroinvertivore,Macroinvertivore,3.4,3.38
+tobaccofish,Serranidae,Serranus,tabacarius,SerranidaeSerranustabacarius,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+tomtate,Haemulidae,Haemulon,aurolineatum,HaemulidaeHaemulonaurolineatum,HaemulidaeHaemulonsp,genus,Macroinvertivore,Macroinvertivore,3.5,3.18
+trumpetfish,Aulostomidae,Aulostomus,maculatus,AulostomidaeAulostomusmaculatus,Syngnathidaespsp,order,Piscivore-Invertivore,Piscivore Invertivore,4.3,4.26
+trunkfish,Ostraciidae,Lactophrys,trigonus,OstraciidaeLactophrystrigonus,Ostraciidaespsp,family,omnivore,Macroinvertivore,3.5,3.35
+white grouper,Serranidae,Mycteroperca,cidi,SerranidaeMycteropercacidi,SerranidaeMycteropercasp,genus,Piscivore-Invertivore,Apex predator,4.5,4.5
+white grunt,Haemulidae,Haemulon,plumieri,HaemulidaeHaemulonplumieri,HaemulidaeHaemulonplumieri,species,Macroinvertivore,Piscivore Invertivore,3.5,3.6
+white spotted filefish,Monacanthidae,Cantherhines,macrocerus,MonacanthidaeCantherhinessp,Tetraodontiformesspsp,order,Microinvertivore,Omnivore,2.6,3.15
+yellow goatfish,Mullidae,Mulloidichthys,martinicus,MullidaeMulloidichthysmartinicus,Mullidaespsp,family,Macroinvertivore,Microinvertivore,3.3,3.18
+yellow jack,Carangidae,Caranx,bartholomaei,CarangidaeCaranxbartholomaei,CarangidaeCaranxsp,genus,Piscivore,Piscivore Invertivore,4.5,4.39
+yellowbelly hamlet,Serranidae,Hypoplectrus,aberrans,SerranidaeHypoplectrusaberrans,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+yellowfin grouper,Serranidae,Mycteroperca,venenosa,SerranidaeMycteropercavenenosa,SerranidaeMycteropercasp,genus,Piscivore-Invertivore,Apex predator,4.5,4.5
+yellowfin mojarra,Gerreidea,Gerres,cinereus,GerreidaeGerrescinereus,GerreidaeGerrescinereus,genus,omnivore,Macroinvertivore,2.8,3.32
+yellowhead wrasse,Labridae,Halichoeres,garnoti,LabridaeHalichoeresgarnoti,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+yellowmouth grouper,Serranidae,Mycteroperca,interstitialis,SerranidaeMycteropercainterstitialis,SerranidaeMycteropercasp,genus,Piscivore-Invertivore,Apex predator,4.5,4.5
+yellowtail damselfish,Pomacentridae,Microspathodon,chrysurus,PomacentridaeMicrospathodonchrysurus,Pomacentridaespsp,family,Herbivores,Herbivore,2.1,2.11
+yellowtail hamlet,Serranidae,Hypoplectrus,chlorurus,SerranidaeHypoplectruschlorurus,Serranidaespsp,family,Piscivore-Invertivore,Piscivore Invertivore,4.2,4.23
+yellowtail snapper,Lutjanidae,Ocyurus,chrysurus,LutjanidaeOcyuruschrysurus,LutjanidaeOcyurussp,genus,Piscivore-Invertivore,Piscivore Invertivore,4.4,3.99
+yhead wrasse,Labridae,Halichoeres,garnoti,LabridaeHalichoeresgarnoti,Labridaespsp,family,Macroinvertivore,Macroinvertivore,3.4,3.38
+,Acanthuridae,Acanthurus,sp,AcanthuridaeAcanthurussp,AcanthuridaeAcanthurussp,species,Herbivores,Herbivore,2,2
